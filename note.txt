@@ -1,0 +1,9 @@
+,
+  "user" : [
+    {
+      "id": 0,
+      "name":"A van",
+      "gmail": "Wow such content!",
+      "password": "zero_cool"
+    }
+  ]
